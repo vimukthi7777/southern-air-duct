@@ -34,7 +34,7 @@ export function About() {
         </Reveal>
 
         <Reveal className="relative col-span-4 mt-14 aspect-[4/3] overflow-hidden rounded-lg md:col-span-8 md:aspect-[1.15]">
-          <Image src="/images/AboutImg.jpg" alt="Rooftop HVAC ductwork installation" fill sizes="(min-width:768px) 62vw, 100vw" className="object-cover" />
+          <Image src="/images/AboutNew.jpg" alt="Rooftop HVAC ductwork installation" fill sizes="(min-width:768px) 62vw, 100vw" className="object-cover" />
         </Reveal>
         <Reveal delay={0.15} className="relative col-span-4 mt-5 aspect-[4/3] overflow-hidden rounded-lg md:col-span-4 md:mt-14 md:aspect-auto">
           <Image src="/images/AboutUsImg002.jpg" alt="Industrial facility with ductwork" fill sizes="(min-width:768px) 33vw, 100vw" className="object-cover" />

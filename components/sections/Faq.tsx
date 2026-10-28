@@ -62,7 +62,7 @@ export function Faq() {
 
         <Reveal delay={0.15} className="col-span-4 mt-12 md:col-span-5 md:col-start-8 md:mt-0">
           <div className="relative aspect-[1.25] overflow-hidden rounded-lg">
-            <Image src="/images/AboutUsImg1.webp" alt="Modern HVAC rooftop installation" fill sizes="(min-width:768px) 40vw, 100vw" className="object-cover" />
+            <Image src="/images/faqImg.png" alt="Modern HVAC rooftop installation" fill sizes="(min-width:768px) 40vw, 100vw" className="object-cover" />
           </div>
           <p className="mt-5 text-sm">Modern HVAC for home upgrade</p>
           <p className="mt-1 text-xs text-black/40">Engineered systems designed to elevate everyday living</p>
